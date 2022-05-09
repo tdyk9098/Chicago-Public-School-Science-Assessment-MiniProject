@@ -1,5 +1,5 @@
 # Chicago-Public-School-Science-Assessment-MiniProject
-Showcase of intro to: NumPy, Pandas, Matplotlib, Seaborn
+Analyzing science assessments results from Grade 5, Grade 8, and HS Biology students in the Chicago Public School system.
 
 
 Dataset: Chicago Public School Assessmnet Reports (attatched in repository)
