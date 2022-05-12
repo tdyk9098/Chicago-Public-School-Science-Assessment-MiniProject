@@ -7,7 +7,7 @@ Dataset: Chicago Public School Assessmnet Reports (attatched in repository)
 The objective of this project was to explore the science assessment results from all Chicago public schools.
 Python was used to read, clean, and store an XLS file.
 
-Observations: 4 Years of Data
+# Observations: 4 Years of Data
 
 - There is a strong negative correlation with Year and Overall Mean Score for all grade levels, ie. each year, students are scoring lower: R = -.758 with a P Val = .004. 
 - Over 72,537 English as a Second Language Students: The relationship between Overall Mean Score and students with English as a second language had a -.952 R Score with a P Value of 1.79e^-25. The correlation with % Not Proficient had a R of .834 with a P Value of 1.71e^-13.
