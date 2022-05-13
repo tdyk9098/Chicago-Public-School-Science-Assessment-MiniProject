@@ -33,6 +33,12 @@ pip install seaborn | conda install seaborn
 
 pip install scipy | conda install -c anaconda scipy
 
+pip install plotly
+
+pip install cufflinks
+
+pip install chart-studio
+
 # Import
 import numpy as np
 
@@ -45,3 +51,15 @@ import seaborn as sns
 %matplotlib inline
 
 import scipy.stats as st
+
+import plotly
+
+import cufflinks as cf
+
+from plotly.offline import download_plotlyjs, init_notebook_mode,plot,iplot
+
+init_notebook_mode(connected = True)
+
+import chart_studio.plotly as py
+
+cf.go_offline()
