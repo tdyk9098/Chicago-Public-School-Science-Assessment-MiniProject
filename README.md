@@ -18,7 +18,7 @@ Python was used to read, clean, and store an XLS file.
 
 Unsurprisingly (and unfortunately), students with economic disadvantage, english as a second language, and black students all score lower and have a higher non proficiency percentage on the annual Science assessment for Chicago Public Schools. 
 
-White students score higher and have a higher % of proficiency and while female students did not have a statistically significant relationship with test scores.
+White students score higher and have a higher % of proficiency and female students did not have a statistically significant relationship with test scores.
 
 Students are trending lower in overall mean scale score.
 
